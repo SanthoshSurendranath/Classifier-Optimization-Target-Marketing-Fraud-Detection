@@ -186,7 +186,7 @@ pip install scikit-learn pandas numpy
 
 ## Author
 
-**[Your Name]**
+Santhosh Surendranath
 Data Scientist
 [your.email@domain.com] | [LinkedIn] | [GitHub]
 
