@@ -29,10 +29,10 @@ Predict which bank customers are likely to subscribe to a term deposit product b
 
 ### Part A — Insurance Fraud
 
-| Dataset | Records | Features | Target | Source |
-|---|---|---|---|---|
-| `Insurance Fraud - TRAIN-3000.csv` | 2,999 | 32 | `FRAUDFOUND` (Yes/No) | Google Drive |
-| `Insurance Fraud - TEST-12900.csv` | 12,918 | 32 | `FRAUDFOUND` (Yes/No) | Google Drive |
+| Dataset | Records | Features | Target |
+|---|---|---|---|
+| `Insurance Fraud - TRAIN-3000.csv` | 2,999 | 32 | `FRAUDFOUND` (Yes/No) | 
+| `Insurance Fraud - TEST-12900.csv` | 12,918 | 32 | `FRAUDFOUND` (Yes/No) |
 
 **Key Features:** Month, Day of Week, Vehicle Make, Accident Area, Policy Type, Vehicle Category, Vehicle Price, Driver Rating, Agent Type, Base Policy, and 20+ additional claim and policyholder attributes.
 
@@ -42,10 +42,10 @@ Predict which bank customers are likely to subscribe to a term deposit product b
 
 ### Part B — Bank Target Marketing (Portuguese Bank)
 
-| Dataset | Records | Features | Target | Source |
-|---|---|---|---|---|
-| `Portugese Bank Data - TRAIN.csv` | 4,521 | 17 | `y` (yes/no) | Google Drive |
-| `Portugese Bank Data - TEST.csv` | 45,211 | 17 | `y` (yes/no) | Google Drive |
+| Dataset | Records | Features | Target |
+|---|---|---|---|
+| `Portugese Bank Data - TRAIN.csv` | 4,521 | 17 | `y` (yes/no) |
+| `Portugese Bank Data - TEST.csv` | 45,211 | 17 | `y` (yes/no) |
 
 **Key Features:** Age, Job, Marital Status, Education, Balance, Housing Loan, Contact Type, Month, Campaign Duration, Previous Outcome, and related banking attributes.
 
