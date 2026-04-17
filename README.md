@@ -186,7 +186,7 @@ pip install scikit-learn pandas numpy
 
 ## Author
 
-Santhosh Surendranath
+Santhosh Surendranath \
 Data Scientist
 
 ---
