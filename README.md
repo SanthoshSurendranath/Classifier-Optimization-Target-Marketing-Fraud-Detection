@@ -188,7 +188,6 @@ pip install scikit-learn pandas numpy
 
 Santhosh Surendranath
 Data Scientist
-[your.email@domain.com] | [LinkedIn] | [GitHub]
 
 ---
 
